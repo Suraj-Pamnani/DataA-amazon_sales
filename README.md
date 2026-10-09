@@ -142,4 +142,4 @@ Price band	Products	Avg discount %	Avg rating
 5K-20K	211	46.30	4.09
 >20K	94	35.65	4.23
 
-Github link: 
+Github link: https://github.com/Suraj-Pamnani/DataA-amazon_sales.git
